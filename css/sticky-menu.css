@@ -81,7 +81,9 @@ html {
 }
 
 
-
+.page-scroll {
+    left: auto;
+}
 
 .glassmorphism {
     background-image: url(/public/photo.jpg);

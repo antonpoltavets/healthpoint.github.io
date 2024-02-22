@@ -11,6 +11,8 @@
   min-height: 3.3em;
   position: relative;
   text-transform: lowercase;
+  margin-right: 1.5em;
+  margin-left: 1.5em;
 }
 .btn--yellow {
   --hue: 46;
